@@ -22,7 +22,7 @@ To run this prototype locally, ensure you have Python 3.12+ installed.
 1. **Clone the repository:**
    ```
    git clone https://github.com/FrisK6969/nlp-prototype.git
-   cd prototype
+   cd Prototype
    ```
 
 2. **Install dependencies:**
